@@ -1,1 +1,1 @@
-Worker: python 3.9 Chatbot.py
+worker: python3.9 Chatbot.py
